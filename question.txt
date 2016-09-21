@@ -1,5 +1,9 @@
 What was your favorite project to work on and why?
 I built a color-changing LED scarf for my mom for her birthday. Although it went unfinished, I worked on the project with my (now ex) girlfriend and my little brother on the project which made it a lot of fun.
 
+— A web spider that collected article content regarding gun violence in the US for 2015. I liked the challenge of the project in addition to the immediate social impact that it had.
+
 How did you discover Make School?
 I saw an article about Jeremy on Reddit a few years ago and his plan to create a school with income based repayment.
+
+— I went to Hip Hop Hacks in NYC and met a few students from Make School. I saw the excitement they had in describing the school and it motivated me to apply! 
